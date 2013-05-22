@@ -1,0 +1,4 @@
+parallel
+========
+
+Parallel tasks component
