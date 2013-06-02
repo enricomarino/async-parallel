@@ -1,3 +1,15 @@
+/**!
+ * async-parallel
+ * Async parallel component
+ * 
+ * @copyright 2013 Enrico Marino
+ * @license MIT
+ */
+ 
+/**
+ * Expose `parallel`
+ */
+
 module.exports = parallel;
 
 function parallel (tasks, callback) {
