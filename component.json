@@ -1,0 +1,8 @@
+{
+  "name": "async-parallel",
+  "repo": "enricomarino/async-parallel",
+  "description": "Async parallel component",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
